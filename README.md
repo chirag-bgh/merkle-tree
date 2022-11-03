@@ -1,0 +1,1 @@
+A Rust implementation of [Openzepplin merkle-tree generator.](https://github.com/OpenZeppelin/merkle-tree)
